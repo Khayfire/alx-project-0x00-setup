@@ -38,7 +38,7 @@ function Landingpage(): React.JSX.Element {
         <div className="flex gap-3">
           <Button title="Large - Rounded-sm" size="large" shape="rounded-sm" />
           <Button title="Large - Rounded-md" size="large" shape="rounded-md" />
-          <Button title="Large - Rounded-full" size="large" shape="rounded-full" />
+          <Button title="Large - Rounded-full" size="large" shape="rounded-lg" />
         </div>
       </div>
     </div>
